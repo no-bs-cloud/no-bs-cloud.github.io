@@ -1,6 +1,15 @@
 baseURL: https://www.no-bs.cloud
 title: NoBS!
 
+services:
+  googleAnalytics:
+    id: G-W7BND279KQ
+
+privacy:
+  googleAnalytics:
+    disable: false
+    respectDoNotTrack: false
+
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
 
 # Language settings
