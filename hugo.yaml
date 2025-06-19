@@ -1,5 +1,5 @@
 baseURL: https://www.no-bs.cloud
-title: NoBS!
+title: noBS!
 
 services:
   googleAnalytics:
@@ -59,9 +59,9 @@ imaging:
 languages:
   en:
     languageName: English
-    title: NoBS!
+    title: noBS!
     params:
-      description: NoBS Homepage
+      description: noBS! Homepage
 
 markup:
   goldmark:
@@ -139,7 +139,7 @@ params:
   prism_syntax_highlighting: false
 
   copyright:
-    authors: NoBS! SAS
+    authors: noBS! SAS
     from_year: 2025
 
   # User interface configuration
