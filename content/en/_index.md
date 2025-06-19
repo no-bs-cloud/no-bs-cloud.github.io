@@ -2,10 +2,10 @@
 title: No BS!
 ---
 
-{{< blocks/cover title="No BS!" subtitle="Hard, honest truth" image_anchor="top" height="full" >}}
+{{< blocks/cover title="noBS!" subtitle="Hard, honest truth" image_anchor="top" height="full" >}}
 <div class="mx-auto">
   <p class="lead mt-5">
-No BS! is a French software consulting company, focusing on execution and delivery.
+noBS! is a French software consulting company, focusing on execution and delivery.
 
 We're a small team of seasoned professionals with a simple task: get the job done !</p>
 
@@ -23,7 +23,7 @@ We are the company behind <a href="https://www.kowabunga.cloud">Kowabunga</a>.
 
 We believe in self-hosted, self-maintained, highly profitable platform blueprint. We believe in people, in in-sourced skills, because SaaS companies success only come when you master your own destiny.
 
-No BS! provide you with professional services and expertise over many topics
+noBS! provide you with professional services and expertise over many topics
 {{% /blocks/lead %}}
 
 
@@ -36,7 +36,7 @@ We do solution assessment and architecture reverse-engineering. Finding design h
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fa-network-wired" title="Infrastructure Design" %}}
-We've designed and maintained world-class network, storage and computing infrastructures, sustaining millions of users applications. Whether you're looking to mvoe to Cloud, hybrid setups or Cloud repatriation, migrating back to a more mastered, cost-effective, self-maintained infrastructure, we're here to help.
+We've designed and maintained world-class network, storage and computing infrastructures, sustaining millions of users applications. Whether you're looking to move to Cloud, hybrid setups or Cloud repatriation, migrating back to a more mastered, cost-effective, self-maintained infrastructure, we're here to help.
 
 **Our expertise goes from bare-metal to Kubernetes-based container orchestration.**
 {{% /blocks/feature %}}
